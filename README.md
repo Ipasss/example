@@ -3,8 +3,8 @@
 
 [week_2 文字雲 ](https://ipasss.github.io/example/Week2/Text_cloud.html)
 
-[week3 text mining](https://Ipasss.github.io/example/Week3/W3_quick.html)
-
+[week3 text mining](https://ipasss.github.io/example/Week3/W3_quick.html)
+\n week3=error
 [期末報告](https://github.com/Ipasss/example/blob/master/app.R)
 
 [期末報告Publish](https://peijunghsin.shinyapps.io/final_project/)
